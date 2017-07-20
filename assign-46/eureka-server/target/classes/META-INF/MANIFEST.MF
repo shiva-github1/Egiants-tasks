@@ -1,9 +1,9 @@
 Manifest-Version: 1.0
 Implementation-Title: eureka-server
 Implementation-Version: 0.0.1-SNAPSHOT
-Built-By: Viggi
+Built-By: Shiva
 Implementation-Vendor-Id: edu.viggi.learning.spring.cloud
-Build-Jdk: 1.8.0_45
+Build-Jdk: 1.8.0_121
 Implementation-URL: http://projects.spring.io/spring-boot/eureka-serve
  r/
 Created-By: Maven Integration for Eclipse
